@@ -10,7 +10,7 @@
 # Setup
 
 ## Option 1: Download Modrinth Pack 
-Download the [CollideCraft Modpack (Full, No Shaders)](https://github.com/maxlair1/CollideCraft/blob/main/CollideCraft%20(Required%20Only)%201.0.2.mrpack)
+Download the [CollideCraft Modpack (Full, No Shaders)](https://github.com/maxlair1/CollideCraft/blob/main/CollideCraft%20(Full%2C%20No%20Shaders)%201.0.2.mrpack)
 **OR** 
 Download the [CollideCraft Modpack (Required Only)](https://github.com/maxlair1/CollideCraft/blob/main/CollideCraft%20(Required%20Only)%201.0.2.mrpack)
 #### How to install
