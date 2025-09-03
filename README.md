@@ -1,8 +1,8 @@
 *VERSION 1.0.2 (2025)
 
 >**Minecraft Version:** *1.21.1*
->**Minecraft Mod Platform:** [*NeoForge*](https://neoforged.net/)
->**IP:** *131.241.71.149:25565*
+**Minecraft Mod Platform:** [*NeoForge*](https://neoforged.net/)
+**IP:** *131.241.71.149:25565*
 
 [Drive resources ](https://drive.google.com/file/d/1p5w66P_puWh6PuOsEcNfHv4mxIPeNX1r/view?usp=sharing)
 # Setup
