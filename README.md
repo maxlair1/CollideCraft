@@ -1,17 +1,18 @@
 *VERSION 1.0.2 (2025)
 
->**Minecraft Version:** *1.21.1*
->**Minecraft Mod Platform:** [*NeoForge*](https://neoforged.net/)
->**IP:** *131.241.71.149:25565*
+> **Minecraft Version:** *1.21.1*
+> 
+> **Minecraft Mod Platform:** [*NeoForge*](https://neoforged.net/)
+> 
+> **IP:** *131.241.71.149:25565*
 
 [Drive resources ](https://drive.google.com/file/d/1p5w66P_puWh6PuOsEcNfHv4mxIPeNX1r/view?usp=sharing)
 # Setup
 
 ## Option 1: Download Modrinth Pack 
---- 
-Download the [CollideCraft Modpack (Full, No Shaders)](https://drive.google.com/file/d/1p5w66P_puWh6PuOsEcNfHv4mxIPeNX1r/view?usp=drive_link)
+Download the [CollideCraft Modpack (Full, No Shaders)](https://github.com/maxlair1/CollideCraft/blob/main/CollideCraft%20(Full%2C%20No%20Shaders)%201.0.2.mrpack)
 **OR** 
-Download the [CollideCraft Modpack (Required Only)](https://drive.google.com/file/d/1WTa2vdM5Pscwlcl8cdc5v3tzTB9QP1nH/view?usp=drive_link)
+Download the [CollideCraft Modpack (Required Only)](https://github.com/maxlair1/CollideCraft/blob/main/CollideCraft%20(Required%20Only)%201.0.2.mrpack)
 #### How to install
 1. Download the [Modrinth App](https://modrinth.com/app)
 2. Download **One of the above `.mrpack` files**
@@ -21,7 +22,6 @@ Download the [CollideCraft Modpack (Required Only)](https://drive.google.com/fil
 6. Launch and configure to your liking
 7. You can now join the server.
 ## Option 2: Manual Download
----
 Find all of the mods in a ready-to-download folder [here](https://drive.google.com/drive/folders/1UnwppXrSglFDL6vsLFc4h_XJEas_VX2Y?usp=sharing).
 Otherwise, you are welcome to manually download each from their source.
 #### REQUIRED Mods:
@@ -84,7 +84,7 @@ Otherwise, you are welcome to manually download each from their source.
 		-  [Fresh Moves](https://modrinth.com/resourcepack/tras-fresh-player)
 	-  [Vocal Villagers](https://modrinth.com/resourcepack/vvi)
 
-
+---
 ##### NOTES FOR MAX
 ```shell
 mcrcon -H 192.168.4.61 -P 25575 -p [PASSWORD] "say Hello world"
