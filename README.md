@@ -31,6 +31,7 @@ Otherwise, you are welcome to manually download each from their source.
 - [Entity Culling](https://modrinth.com/mod/entityculling)
 - [EpheroLib](https://modrinth.com/mod/epherolib)
 - [Cloth Config API](https://modrinth.com/mod/cloth-config)
+- [Chunky](https://modrinth.com/mod/chunky)
 - [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks)
 - [Sophisticated Core](https://modrinth.com/mod/sophisticated-core)
 - [Load My F\*\*\*ing Tags](https://modrinth.com/mod/lmft)
