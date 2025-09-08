@@ -66,7 +66,6 @@ Otherwise, you are welcome to manually download each from their source.
 - [Just Enough Items (JEI)](https://modrinth.com/mod/jei)
 - Macaws Furniture
 - Macaws Lights
-- Universtal Compat (Good Wood)
 - Macaws Biomes o Plenty
 - [AlcoCraft](https://modrinth.com/mod/alco-craft)
 - [Pylons](https://modrinth.com/mod/tanners-pylons)
