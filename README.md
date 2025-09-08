@@ -5,17 +5,12 @@
 > **Minecraft Mod Platform:** [*NeoForge*](https://neoforged.net/)
 > 
 > **IP:** *131.241.71.149:25565*
-
-[Drive resources ](https://drive.google.com/file/d/1p5w66P_puWh6PuOsEcNfHv4mxIPeNX1r/view?usp=sharing)
 # Setup
 
 ## Option 1: Download Modrinth Pack 
-Download the [CollideCraft Modpack (Full, No Shaders)](https://github.com/maxlair1/CollideCraft/blob/main/CollideCraft%20(Full%2C%20No%20Shaders)%201.0.2.mrpack)
-**OR** 
-Download the [CollideCraft Modpack (Required Only)](https://github.com/maxlair1/CollideCraft/blob/main/CollideCraft%20(Required%20Only)%201.0.2.mrpack)
 #### How to install
 1. Download the [Modrinth App](https://modrinth.com/app)
-2. Download **One of the above `.mrpack` files**
+2. Download the above `.mrpack`**
 3. Open the app, Login to Modrinth, and Sign in to your Minecraft account
 4. "Create new Instance" > "From File" > Select the `.mrpack` file
 5. It will install all the mods in the correct version and platform
@@ -47,7 +42,13 @@ Otherwise, you are welcome to manually download each from their source.
 	- [Farmer's (Delight) Croptopia](https://modrinth.com/mod/farmers-croptopia)
 	- [Croptopia Delight](https://modrinth.com/mod/croptopia-delight)
 	- [croptopia_1.21.1_NEO-FORGE-4.2.1.jar](https://www.curseforge.com/minecraft/mc-mods/croptopia/download/6788725)
-- [YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl)
+	- [Farmer's Delight](https://modrinth.com/mod/farmers-delight)
+	- [Storage Delight](https://modrinth.com/mod/storage-delight)
+	- [Brewin' And Chewin'](https://modrinth.com/mod/brewin-and-chewin)
+	- [Vegan Delight](https://modrinth.com/mod/vegan-delight)
+	- [Farmers Expanse](https://modrinth.com/mod/farmers-expanse)
+	- [Slice and Dice](https://modrinth.com/mod/slice-and-dice)
+	- [YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl)
 - [M.R.U](https://modrinth.com/mod/mru)
 - [Create](https://modrinth.com/mod/create)
 - [Refined Storage](https://modrinth.com/mod/refined-storage)
@@ -61,29 +62,26 @@ Otherwise, you are welcome to manually download each from their source.
 - [Just Enough Items](https://modrinth.com/mod/jei)
 - [Powah!](https://modrinth.com/mod/powah)
 - [Sinytra Connector](https://modrinth.com/mod/connector)
-#### Optional Mods:
-- [Satisfying Buttons](https://modrinth.com/mod/satisfying-buttons)
-- [Continuity](https://modrinth.com/mod/continuity)
-- Sounds
-	- [More Sounds](https://modrinth.com/mod/more-sounds)
-	- [Sounds](https://modrinth.com/mod/sound)
-- [[EMF] Entity Model Features](https://modrinth.com/mod/entity-model-features)
-- [\[ETF\] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
-- Shaders
-	- [Iris Shaders](https://modrinth.com/mod/iris)
-	- [Complementary Shaders - Unbound](https://modrinth.com/shader/complementary-unbound)
-- Resource Packs
-	- [Minecolonies Refreshed](https://modrinth.com/resourcepack/minecolonies-refreshed)
-	- [Autumn Biomes](https://modrinth.com/resourcepack/autumn-biomes)
-	- [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)
-	- [(Bee's) Fancy Crops](https://modrinth.com/resourcepack/fancy-crops)
-	- [Atmosfera](https://modrinth.com/mod/atmosfera)
-		- *NOTE: Will need Cloth Config API, and Forgified Fabric API (Should already be listed in required mods)*
-	- Fresh Animations
-		- [Fresh Animations - Extensions](https://modrinth.com/resourcepack/fresh-animations-extensions)
-		- [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)
-		-  [Fresh Moves](https://modrinth.com/resourcepack/tras-fresh-player)
-	-  [Vocal Villagers](https://modrinth.com/resourcepack/vvi)
+- [Waystones Teleport Pets](https://modrinth.com/mod/waystones-teleport-pets)
+- [Just Enough Items (JEI)](https://modrinth.com/mod/jei)
+- Macaws Furniture
+- Macaws Lights
+- Universtal Compat (Good Wood)
+- Macaws Biomes o Plenty
+- [AlcoCraft](https://modrinth.com/mod/alco-craft)
+- [Pylons](https://modrinth.com/mod/tanners-pylons)
+- [Ches](https://modrinth.com/mod/chest-sorting)
+- [KubeUtils](https://modrinth.com/mod/kube-utils)
+- [KubeJS](https://modrinth.com/mod/kubejs)
+- [AlmostUnified](https://modrinth.com/mod/almost-unified)
+- [FerriteCore](https://modrinth.com/mod/ferrite-core)
+- [Lithium](https://modrinth.com/mod/lithium)
+- [MineColonies](https://modrinth.com/mod/minecolonies)
+	- [Structurize](https://www.curseforge.com/minecraft/mc-mods/structurize/download/6887055)
+	- [blockui](https://www.curseforge.com/minecraft/mc-mods/blockui/download/6866850)
+	- [domum_ornamentum](https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum/download/6870762)
+- [Reliquary Reincarnations](https://modrinth.com/mod/reliquary-reincarnations)
+- [Companions!](https://modrinth.com/mod/companions)
 
 ---
 ##### NOTES FOR MAX
