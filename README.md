@@ -10,7 +10,7 @@
 ## Option 1: Download Modrinth Pack 
 #### How to install
 1. Download the [Modrinth App](https://modrinth.com/app)
-2. Download the above `.mrpack`**
+2. Download the above `.mrpack`
 3. Open the app, Login to Modrinth, and Sign in to your Minecraft account
 4. "Create new Instance" > "From File" > Select the `.mrpack` file
 5. It will install all the mods in the correct version and platform
