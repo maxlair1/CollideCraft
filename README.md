@@ -17,7 +17,7 @@
 6. Launch and configure to your liking
 7. You can now join the server.
 ## Option 2: Manual Download
-Find all of the mods in a ready-to-download folder [here](https://drive.google.com/drive/folders/1UnwppXrSglFDL6vsLFc4h_XJEas_VX2Y?usp=sharing).
+Find all of the mods in a ready-to-download folder called `manual-mod-list` above.
 Otherwise, you are welcome to manually download each from their source.
 #### REQUIRED Mods:
 - [Luminous: Butterflies](https://modrinth.com/mod/luminousbutterflies)
@@ -106,6 +106,9 @@ Otherwise, you are welcome to manually download each from their source.
 - [Macaw's Biomes O' Plenty](https://modrinth.com/mod/macaws-biomes-o-plenty)
 - [Powah!](https://modrinth.com/mod/powah)
 - [Create Railways Navigator](https://modrinth.com/mod/create-railways-navigator)
+- [ExtraStorage](https://modrinth.com/mod/extrastorage)
+- [Refined Storage](https://modrinth.com/mod/refined-storage)
+- [EdivadLib](https://modrinth.com/mod/edivadlib)
 
 ---
 ##### NOTES FOR MAX
