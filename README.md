@@ -109,6 +109,13 @@ Otherwise, you are welcome to manually download each from their source.
 - [ExtraStorage](https://modrinth.com/mod/extrastorage)
 - [Refined Storage](https://modrinth.com/mod/refined-storage)
 - [EdivadLib](https://modrinth.com/mod/edivadlib)
+- [Xaero's world map](https://modrinth.com/mod/xaeros-world-map)
+- [Create Stuff 'N Additions](https://modrinth.com/mod/create-stuff-additions) 
+- [Create: Curious Jetpack & Backtank](https://modrinth.com/mod/create-curios-jetpack)
+- [Sophisticated Storage Create Integration](https://modrinth.com/mod/sophisticated-storage-create-integration)
+- [Accessories Compatibility Layer](https://modrinth.com/mod/accessories-compat-layer)
+- [Xaero's Maps x Waystones](https://modrinth.com/mod/xaeros-maps-x-waystones)
+- [Xaero Train Map](https://modrinth.com/mod/xaero-train-map)
 
 ---
 ##### NOTES FOR MAX
