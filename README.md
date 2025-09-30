@@ -4,7 +4,6 @@
 > 
 > **Minecraft Mod Platform:** [*NeoForge*](https://neoforged.net/)
 > 
-> **IP:** *131.241.71.149:25565*
 # Setup
 
 ## Option 1: Download Modrinth Pack 
